@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivangi Umar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coder" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coder" width="200" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangiumar&label=Profile%20views&color=0e75b6&style=flat" alt="shivangiumar" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://shivangiumar.github.io/Portfolio.github.io/](https://shivangiumar.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **HTML,CSS,Javascript,jQuery,React,Nodejs,Expressjs,RestAPI**
+- 💬 Ask me about **HTML, CSS ,Javascript ,jQuery ,React ,Nodejs ,Expressjs ,RestAPI**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f8zS3Psa07LspoQPuEg8dNZxFJLzGFUr/view?usp=share_link](https://drive.google.com/file/d/1f8zS3Psa07LspoQPuEg8dNZxFJLzGFUr/view?usp=share_link)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1f8zS3Psa07LspoQPuEg8dNZxFJLzGFUr/view?usp=share_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
