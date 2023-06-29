@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivangi Umar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="coder" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangiumar&label=Profile%20views&color=0e75b6&style=flat" alt="shivangiumar" /> </p>
-
-- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://shivangiumar.github.io/Portfolio.github.io/](https://my-portfolio-github-io-rouge.vercel.app/)
 
